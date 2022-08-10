@@ -1,0 +1,15 @@
+C:\Курсы\homeC#2\h14\bin\Debug\net6.0\h14.exe
+C:\Курсы\homeC#2\h14\bin\Debug\net6.0\h14.deps.json
+C:\Курсы\homeC#2\h14\bin\Debug\net6.0\h14.runtimeconfig.json
+C:\Курсы\homeC#2\h14\bin\Debug\net6.0\h14.dll
+C:\Курсы\homeC#2\h14\bin\Debug\net6.0\h14.pdb
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.csproj.AssemblyReference.cache
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.AssemblyInfoInputs.cache
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.AssemblyInfo.cs
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.csproj.CoreCompileInputs.cache
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.dll
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\refint\h14.dll
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.pdb
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\h14.genruntimeconfig.cache
+C:\Курсы\homeC#2\h14\obj\Debug\net6.0\ref\h14.dll
